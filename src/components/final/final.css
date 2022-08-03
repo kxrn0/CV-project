@@ -1,0 +1,84 @@
+.final {
+    background: white;
+    width: 210mm;
+    min-height: 297mm;
+    font-family: touchy-aoi;
+    align-self: flex-start;
+}
+
+.final .lower-section .horizontal-rule {
+    background-color: rgb(234, 145, 145);
+}
+
+.final .lower-section {
+    height: 100%;
+    display: flex;
+    padding: 5mm;
+    gap: 5mm;
+}
+
+.final .lower-section .aside {
+    background: linear-gradient(rgb(241, 231, 231), transparent);
+    padding: 10mm;
+}
+
+.final .aside ul {
+    list-style: circle;
+}
+
+.final .aside ul li {
+    margin-bottom: 5mm;
+}
+
+.final .lower-section h2 {
+    font-size: 5mm;
+    line-height: 10mm;
+    font-weight: 800;
+}
+
+.final .lower-section .dotted-underline {
+    border-color: blue;
+}
+
+.final .lower-section .main .profile p {
+    line-height: 5mm;
+}
+
+.final .lower-section .info-wrapper {
+    display: flex;
+    justify-content: space-between;
+    line-height: 7mm;
+}
+
+.header {
+    background: linear-gradient(90deg, rgb(230, 230, 240), transparent);
+    padding: 5mm;
+    display: flex;
+    gap: 5mm;
+}
+
+.header .horizontal-rule {
+    background: rgb(8, 15, 144);   
+}
+
+.header .info {
+    align-self: flex-end;
+}
+
+.header .info h1 {
+    font-size: 12mm;
+}
+
+.header .info p {
+    font-size: 5mm;
+    letter-spacing: 1mm;
+    font-weight: 600;
+    font-family: touchy-aoi-italic;
+}
+
+.header img {
+    width: 35mm;
+    height: 35mm;
+    object-fit: cover;
+    border-radius: 5mm;
+}

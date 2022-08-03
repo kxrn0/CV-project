@@ -1,0 +1,40 @@
+*, *::before, *::after {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+@font-face {
+    font-family: touchy-aoi;
+    src: url("./fonts/Raleway-VariableFont_wght.ttf");
+}
+
+@font-face {
+    font-family: touchy-aoi-italic;
+    src: url("./fonts/Raleway-Italic-VariableFont_wght.ttf");
+}
+
+body {
+    background: rgb(234, 234, 240);
+}
+
+.App {
+    display: flex;
+    padding: 20px;
+    justify-content: center;
+    gap: 20px;
+}
+
+.horizontal-rule {
+    display: block;
+    margin: 20px;
+    height: 2px;
+    background: yellow;
+}
+
+.dotted-underline {
+    display: block;
+    /* width: 100%; */
+    margin: 10px;
+    border-bottom: 2px dotted azure;
+}
