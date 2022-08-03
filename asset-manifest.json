@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/CV-project/static/css/main.063a0e4a.css",
+    "main.js": "/CV-project/static/js/main.9c2534a0.js",
+    "static/media/Raleway-Italic-VariableFont_wght.ttf": "/CV-project/static/media/Raleway-Italic-VariableFont_wght.87701616ad47257e5b00.ttf",
+    "static/media/Raleway-VariableFont_wght.ttf": "/CV-project/static/media/Raleway-VariableFont_wght.3fefe681f4c62116679b.ttf",
+    "static/media/ac.png": "/CV-project/static/media/ac.558b06ae7be2e85ac4dc.png",
+    "index.html": "/CV-project/index.html",
+    "static/media/folder-image.svg": "/CV-project/static/media/folder-image.2427a8f2faad2f0fecb09806c621b78f.svg",
+    "main.063a0e4a.css.map": "/CV-project/static/css/main.063a0e4a.css.map",
+    "main.9c2534a0.js.map": "/CV-project/static/js/main.9c2534a0.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.063a0e4a.css",
+    "static/js/main.9c2534a0.js"
+  ]
+}
